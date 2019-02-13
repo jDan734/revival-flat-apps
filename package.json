@@ -1,0 +1,15 @@
+{
+  "name": "revival-flat-apps",
+  "version": "1.0.0",
+  "description": "The patch for papirus",
+  "main": "install.sh",
+  "scripts": {
+  "keywords": [
+    "Revival",
+    "Papirus",
+    "Icon theme",
+    "Ubuntu"
+  ],
+  "author": "jDan734",
+  "license": "ISC"
+}
